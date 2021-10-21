@@ -2,7 +2,7 @@
 using namespace std;
 //merge sort
 
-//driver function (the controller, that makes decisions and sets up the function)
+//driver function (the controller, sets up the function)
 void merge_sort(int array[], int size);
 
 void merge_sort(int array[], int start, int end);
